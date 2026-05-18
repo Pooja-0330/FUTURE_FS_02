@@ -1,0 +1,68 @@
+# 📊 Client Lead Management System (Mini CRM)
+
+This is a Client Lead Management System (Mini CRM) developed as part of my Full Stack Web Development Internship at Future Interns.
+
+The project helps businesses manage customer leads, update lead status, and organize follow-ups efficiently.
+
+---
+
+# 🚀 Live Website
+Add your live website link here:
+
+https://your-live-link.com
+
+---
+
+# 📂 GitHub Repository
+https://github.com/Pooja-0330/FUTURE_FS_02
+
+---
+
+# ✨ Features
+- Add New Leads
+- View Lead Details
+- Update Lead Status
+- Delete Leads
+- Lead Management Dashboard
+- Responsive Modern UI
+- Easy Navigation
+- Mobile Responsive Design
+
+---
+
+# 🛠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+# 📸 Screenshots
+
+Mini CRM.png
+
+---
+
+# 🎯 Purpose of This Project
+This Mini CRM system was developed to:
+- Manage customer leads efficiently
+- Track lead status and follow-ups
+- Improve business workflow
+- Practice full stack web development concepts
+
+It helps businesses organize and monitor client interactions professionally.
+
+---
+
+# 📧 Contact
+Email: adaripooja8@gmail.com
+
+---
+
+# 👩‍💻 Developed By
+Pooja Adari
+
+Future Interns – Full Stack Web Development Internship
