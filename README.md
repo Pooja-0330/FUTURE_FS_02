@@ -9,7 +9,7 @@ The project helps businesses manage customer leads, update lead status, and orga
 # 🚀 Live Website
 Add your live website link here:
 
-https://your-live-link.com
+http://127.0.0.1:5500/frontend/t2.html
 
 ---
 
