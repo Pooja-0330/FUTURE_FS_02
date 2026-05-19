@@ -7,7 +7,6 @@ The project helps businesses manage customer leads, update lead status, and orga
 ---
 
 # 🚀 Live Website
-Add your live website link here:
 https://pooja-0330.github.io/FUTURE_FS_02/
 
 ---
