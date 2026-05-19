@@ -8,8 +8,7 @@ The project helps businesses manage customer leads, update lead status, and orga
 
 # 🚀 Live Website
 Add your live website link here:
-
-https://nikitha0410.github.io/FUTURE_FS_02/frontend/t2.html
+https://pooja-0330.github.io/FUTURE_FS_02/
 
 ---
 
